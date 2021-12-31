@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "好友列表",
+  "usingComponents": {
+    "user-list": "/components/user-list/user-list",
+    "no-thing": "/components/no-thing/no-thing",
+    "tab-bar-head": "/components/index/swiper-tab-head",
+    "load-text": "/components/load-more/load-more"
+  }
+}

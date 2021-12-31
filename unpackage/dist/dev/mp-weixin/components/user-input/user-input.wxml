@@ -1,0 +1,1 @@
+<view class="user-bottom u-f-ac data-v-4a7916c4"><input type="text" placeholder="文明发言" data-event-opts="{{[['input',[['__set_model',['','userInput','$event',[]]]]]]}}" value="{{userInput}}" bindinput="__e" class="data-v-4a7916c4"/><view data-event-opts="{{[['tap',[['submit',['$event']]]]]}}" class="icon iconfont icon-fabu data-v-4a7916c4" bindtap="__e"></view></view>

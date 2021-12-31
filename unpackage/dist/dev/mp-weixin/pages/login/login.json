@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "用户登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-status-bar": "/components/uni-status-bar/uni-status-bar",
+    "other-login": "/components/other-login/other-login"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "个人空间",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/node-modules/uview-ui/components/u-sticky/u-sticky",
+    "no-thing": "/components/no-thing/no-thing",
+    "tag-sex-age": "/components/common/tag-sex-age",
+    "tab-bar-head": "/components/index/swiper-tab-head",
+    "user-space-info": "/components/user-space/user-space-userinfo",
+    "common-list": "/components/common/common-list",
+    "load-text": "/components/load-more/load-more",
+    "user-menu": "/components/user-space/user-menu"
+  }
+}

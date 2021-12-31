@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "聊天页",
+  "usingComponents": {
+    "user-input": "/components/user-input/user-input"
+  }
+}

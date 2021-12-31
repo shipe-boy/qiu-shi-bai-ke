@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发布页面",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "upload-image": "/components/upload-images/upload-images",
+    "uni-popup-message": "/components/uni-popup-message/uni-popup-message"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小纸条",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-badge": "/components/uni-badge/uni-badge",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "load-text": "/components/load-more/load-more"
+  }
+}

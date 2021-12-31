@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "detail-info": "/components/detail-info/detail-info",
+    "user-input": "/components/user-input/user-input",
+    "comment-list": "/components/detail/comment-list",
+    "share-comp": "/components/share/share"
+  }
+}

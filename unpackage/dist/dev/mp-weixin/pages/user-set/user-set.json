@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "用户设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}

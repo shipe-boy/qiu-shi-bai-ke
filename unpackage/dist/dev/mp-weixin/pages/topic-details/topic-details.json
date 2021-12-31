@@ -1,0 +1,11 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-sticky": "/node-modules/uview-ui/components/u-sticky/u-sticky",
+    "no-thing": "/components/no-thing/no-thing",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "tab-bar-head": "/components/index/swiper-tab-head",
+    "common-list": "/components/common/common-list",
+    "load-text": "/components/load-more/load-more"
+  }
+}

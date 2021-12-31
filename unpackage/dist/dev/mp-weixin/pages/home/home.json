@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "other-login": "/components/other-login/other-login",
+    "home-list-item": "/components/home/home-list-item"
+  }
+}

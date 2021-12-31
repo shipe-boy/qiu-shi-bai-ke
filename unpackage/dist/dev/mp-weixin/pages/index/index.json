@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "no-thing": "/components/no-thing/no-thing",
+    "index-list": "/components/index/index-list",
+    "tab-bar-head": "/components/index/swiper-tab-head",
+    "load-text": "/components/load-more/load-more"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "no-thing": "/components/no-thing/no-thing",
+    "index-list": "/components/index/index-list",
+    "load-text": "/components/load-more/load-more"
+  }
+}
